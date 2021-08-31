@@ -2,7 +2,7 @@
 
 ## Building:
 
-Use git bash Command:
+# Use git bash Command:
 
 # 1:
 git clone http://github.com/Dbo-Kt69/DboExporter
