@@ -1,4 +1,4 @@
-# Dragon Ball OnLine Exporter
+# Dragon Ball OnLine DFF Exporter
 
 ## Building:
 
