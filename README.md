@@ -18,4 +18,5 @@ cmake .. -A Win32
 # other
 cmake ..
 
+# Open .Sln
 Open your build (.\DboExporter\build\DboExporter.sln)
