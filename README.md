@@ -4,13 +4,19 @@
 
 Use git bash Command:
 
-1.git clone https://github.com/Dbo-Kt69/DboExporter
+# 1:
+git clone http://github.com/Dbo-Kt69/DboExporter
+Or 
+git clone https://github.com/Dbo-Kt69/DboExporter
 
-2.cd DboExporter
+# 2:
+cd DboExporter
 
-3.mkdir build
+# 3:
+mkdir build
 
-4.cd build
+# 4:
+cd build
 
 # windows
 cmake .. -A Win32
