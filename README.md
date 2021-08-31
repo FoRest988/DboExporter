@@ -12,11 +12,10 @@ Use git bash Command:
 
 4.cd build
 
-5.
 # windows
 cmake .. -A Win32
 
 # other
 cmake ..
 
-6.Open your build (.\DboExporter\build\DboExporter.sln)
+Open your build (.\DboExporter\build\DboExporter.sln)
