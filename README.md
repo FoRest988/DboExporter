@@ -6,7 +6,9 @@ Use git bash Command:
 
 # 1:
 git clone http://github.com/Dbo-Kt69/DboExporter
+
 Or 
+
 git clone https://github.com/Dbo-Kt69/DboExporter
 
 # 2:
